@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9lCAH3itM32QZmwXQNpBT+eZ/jYWRkFslM69gZDqIuA=",
+  "Source": "FileFlatten",
+  "BasePath": "_content/FileFlatten",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
